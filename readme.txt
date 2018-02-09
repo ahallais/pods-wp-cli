@@ -1,27 +1,25 @@
 === Disable All WordPress Updates ===
-Contributors: Arnaud
+Contributors: Arnaud Hallais
+Tags: pods, wp-cli
+Requires at least: 4.3
+Tested up to: 4.9
+Stable tag: master
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add command cli
+Add wp-cli command to import pods csv
 
 == Description ==
 
-This plugin add command to activate command
+This plugin wp-cli command to import pods csv
+Run : wp pods path/to/your/pods-import-file.csv
 
 == Frequently Asked Questions ==
 
 
 == Installation ==
 
-1. Download the plugin and unzip it.
-2. Upload the folder disable-wordpress-updates/ to your /wp-content/plugins/ folder.
-3. Activate the plugin from your WordPress admin panel.
-4. Installation finished.
-
-With activating the plugin all theme, core and plugin update checkings are disabled. If you want to have a quick look if new versions
-are existing, simply deactive this plugin for a short time.
-
+TODO
 
 == Screenshots ==
 
@@ -30,5 +28,4 @@ None. :)
 
 == Changelog ==
 
-= 1.0 =
-* Initial release
+TODO
